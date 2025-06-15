@@ -1,1 +1,15 @@
 # AUTOMATED-REPORT-GENERATION
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: RUSHIKESH UKHADE
+
+INTERN ID: CT04DF1565
+
+DOMAIN: PYTHON PROGRAMMER 
+
+DURATION: 4 WEEKS
+
+MENTOR:NEELA SANTOSH
+
+Tip: You can use your personal file as well also i have uploaded the sample files of input and output.
